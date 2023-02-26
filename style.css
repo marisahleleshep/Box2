@@ -1,0 +1,54 @@
+#image{
+width: 400px;
+height: 400px;
+float: right;
+padding: 50px 10px 0px;
+
+}
+.content a{
+    width: 15%;
+    padding: 12px;
+    float: left;
+
+}
+
+
+#box{
+float: right;
+border-radius: 12px;
+
+}
+.content h2{
+font-size: 50px;
+color: blue;
+margin-left: 20%;
+
+}
+.content h3{
+margin-left: 20%;
+font-size: 40px;
+}
+.content p{
+margin-left: 20%;
+}
+#but{
+border-radius: 12px;
+background-color: blue;
+margin-left: 20%;
+margin-top: 2%;
+}
+#auto{
+margin-left: 20%;
+color: blue;
+margin-top: 12%;
+padding: 20px;
+border-radius: 10px;
+}
+#pen{
+border-radius: 10px;
+padding: 20px;
+color: blue;
+margin-left: 5%;
+
+}
+
